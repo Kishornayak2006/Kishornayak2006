@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I’m currently studying Computer Science & Engineering (CSE – AI & ML) at ATME College of Engineering<br><br>💻 I have learned Python and C programming<br><br>🌱 I’m currently learning Artificial Intelligence, Machine Learning, and Data Science fundamentals<br><br>🤝 I’m looking to collaborate on Python, AI/ML, and beginner-friendly open-source projects<br><br>🧠 Ask me about Python basics, C programming, and problem-solving<br><br>⚡ Fun fact: I enjoy learning how real-world problems are solved using AI & ML
+🎓 I’m currently studying Computer Science & Engineering (CSE – AI & ML) at ATME College of Engineering<br><br>💻 I have learned Python and C programming<br><br> 🐧 I have a strong interest in Kali Linux and Cybersecurity <br><br> 🌱 I’m currently learning Artificial Intelligence, Machine Learning, and Data Science fundamentals<br><br>🤝 I’m looking to collaborate on Python, AI/ML, and beginner-friendly open-source projects<br><br>🧠 Ask me about Python basics, C programming, and problem-solving<br><br>⚡ Fun fact: I enjoy learning how real-world problems are solved using AI & ML
 
 
 ## 🌐 Socials:
